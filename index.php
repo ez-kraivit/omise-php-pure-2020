@@ -29,7 +29,7 @@
     </script>
     <script>
         OmiseCard.configure({
-            publicKey: "pkey_test_5j654zhzz0lab3nfvk0"
+            publicKey: "นำคีย์ของท่านมาใส่"
         });
 
         var button = document.querySelector("#checkoutButton");
