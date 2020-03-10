@@ -1,0 +1,30 @@
+สิ่งที่ต้องเตรียมสำหรับการตัดบัตร ด้วยระบบทดสอบ
+
+// ทำการสมัครสมาชิก omise
+https://dashboard.omise.co/signup
+
+// หากสมัครสมาชิกแล้วให้ทำการเข้าไปปรับ โหมดทดสอบ
+https://dashboard.omise.co/test/dashboard
+
+// ให้เราเข้าไปอัพเดทเวอร์ชั่น API omise เป็นตัวล่าสุด 2019-05-29
+https://dashboard.omise.co/api-version/edit
+
+เสร็จแล้วให้เราเข้าเข้าไป omise.js 
+https://www.omise.co/omise-js?version=2019-05-29
+
+key
+https://dashboard.omise.co/test/keys
+
+Public key
+pkey_test_5j654zhzz0lab3nfvk0
+Secret key
+skey_test_56lym4o9y3ph98m4c3n
+
+ให้ทำการดาวน์โหลด
+https://github.com/omise/omise-php
+
+// เมื่อเราสำเร็จในการชำระเงิน ให้เข้าไปดูในส่วนของ
+https://dashboard.omise.co/test/charges
+
+
+ผมก็ขอจบการแบ่งปันเพียงเท่านี้ครับ หวังว่าทุกท่านจะนำไปพัฒนาต่อยอดกับงานของตัวเอง
